@@ -9,12 +9,13 @@ most commonly known in most countries x and o is a simple game
 - has X
 - has O
 - terminal only
-- use however you like 
+- has check draw
+- has check win
 
 
 ## Installation
 
-just download latest version
+just download latest version of python
 
 
 have python installed 
