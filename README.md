@@ -1,8 +1,21 @@
-# tic-tac-toe
 
-its quite a simple game (you know damn well how to play it)
+# tic tac toe
 
-Row is horizontal line
-column is vertical line 
+most commonly known in most countries x and o is a simple game 
 
-have fun 
+
+## Features
+
+- has X
+- has O
+- terminal only
+- use however you like 
+
+
+## Installation
+
+just download latest version
+
+
+have python installed 
+ https://www.python.org/downloads
